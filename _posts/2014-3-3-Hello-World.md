@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: USA Roadtrip
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![near route 66](http://farm6.static.flickr.com/5175/5529905397_8bac77aa34_b.jpg)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![wrecked](http://farm6.static.flickr.com/5175/5529905531_1b4853a2de_b.jpg)
