@@ -249,7 +249,7 @@ nav {
   display: inline-block;
 }
 
-.posts > .post::nth-child(2n) {
+.posts > .post:nth-child(2n) {
   margin-left: 2%
 }
 
