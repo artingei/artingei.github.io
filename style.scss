@@ -245,6 +245,12 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+	width: 48%;
+  display: inline-block;
+}
+
+.posts > .post::nth-child(2n) {
+  margin-left: 2%
 }
 
 .posts > .post:last-child {
