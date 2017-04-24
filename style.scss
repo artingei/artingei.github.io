@@ -46,14 +46,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 26px;
-  letter-spacing: .05em;
-  font-family: $georgia;
-  font-weight: 100;
-	margin: 3em 0;
+  font-size: 22px;
   a {
     color: inherit;
   }
+	&.centered {
+    font-size: 26px;
+    letter-spacing: .05em;
+    font-family: $georgia;
+    font-weight: 100;
+    margin: 3em 0;
 }
 
 h2 {
