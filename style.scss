@@ -295,7 +295,10 @@ footer {
 // custom
 
 .single img {
-	margin: 0 0 9em;
+	margin: 0 0 6em;
+		@include mobile {
+	    line-height: 1.4;
+	  }
 }
 
 @media screen and (max-width: 640px) {
