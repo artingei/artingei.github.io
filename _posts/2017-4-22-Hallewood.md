@@ -23,4 +23,4 @@ title: Hallewood (2010-2016)
 
 ![…](https://c2.staticflickr.com/6/5475/11376186584_78ae16999d_b.jpg) 
 
-> …
+> Halle (Saale) is an university town next to Leipzig in east Germany. I lived there for at least three years and spend quite some time where the city seems lost and forgotten.
