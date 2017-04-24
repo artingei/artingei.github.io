@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 
   line-height: 1.7;
   margin: 2em 0;
-	text-align: center;
+  text-align: center;
   padding: 0;
 
   @include mobile {
@@ -46,10 +46,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 26px;
   letter-spacing: .05em;
   font-family: $georgia;
   font-weight: 100;
+	margin: 3em 0;
   a {
     color: inherit;
   }
