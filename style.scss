@@ -28,6 +28,9 @@ body {
   max-width: 1024px;
   padding: 0 10px;
   width: 80%;
+  @include mobile {
+    width: 90%;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
