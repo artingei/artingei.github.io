@@ -34,7 +34,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $cormorant;
   color: $darkerGray;
   font-weight: bold;
 
@@ -56,22 +55,25 @@ h1 {
     letter-spacing: .025em;
     font-family: $cormorant;
     font-weight: 400;
-    margin: 3em 0 0;
+    margin: 3em 0;
     text-align: center;
 	}
 }
 
 h2 {
   font-size:19px;
+  font-family: $muli;
 }
 
 h3 {
   font-size: 16px;
+  font-family: $muli;
 }
 
 h4 {
   font-size: 16px;
   color: $gray;
+  font-family: $muli;
 }
 
 p {
