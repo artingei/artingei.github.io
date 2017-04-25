@@ -54,9 +54,9 @@ h1 {
 	&.centered {
     font-size: 32px;
     letter-spacing: .05em;
-    font-family: $georgia;
+    font-family: $muli;
     font-weight: 100;
-    margin: 3em 0;
+    margin: 3em 0 0;
     text-align: center;
 	}
 }
@@ -276,13 +276,13 @@ nav {
 
 .post {
   blockquote {
-    margin: 0em 10% 4em;
-    border-left: 1px solid #0065ff;
+    margin: 0 10% 4em;
     padding: 0.1em 1em;
-    font-family: $georgia;
+    font-family: $muli;
     color: #000000;
     font-size: 1em;
     font-style: italic;
+	  text-align: center;
   }
 
   .comments {
