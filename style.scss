@@ -52,7 +52,7 @@ h1 {
     color: inherit;
   }
 	&.centered {
-    font-size: 36px;
+    font-size: 42px;
     letter-spacing: .025em;
     font-family: $cormorant;
     font-weight: 400;
@@ -224,7 +224,7 @@ img {
 nav {
   float: right;
 	margin-top: 10px;
-  font-family: $helveticaNeue;
+  font-family: $muli;
   font-size: 18px;
 
   @include mobile {
@@ -278,7 +278,7 @@ nav {
   blockquote {
     margin: 0 10% 4em;
     padding: 0.1em 1em;
-    font-family: $muli;
+    font-family: $cormorant;
     color: #000000;
     font-size: 1em;
     font-style: italic;
