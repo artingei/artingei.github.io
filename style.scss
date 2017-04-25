@@ -34,7 +34,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $muli;
+  font-family: $cormorant;
   color: $darkerGray;
   font-weight: bold;
 
@@ -54,7 +54,7 @@ h1 {
 	&.centered {
     font-size: 32px;
     letter-spacing: .05em;
-    font-family: $muli;
+    font-family: $cormorant;
     font-weight: 100;
     margin: 3em 0 0;
     text-align: center;
