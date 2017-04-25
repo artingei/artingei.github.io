@@ -276,13 +276,16 @@ nav {
 
 .post {
   blockquote {
-    margin: 0 10% 4em;
+    margin: 0 12.5% 4em;
     padding: 0.1em 1em;
     font-family: $cormorant;
     color: #000000;
-    font-size: 1em;
+    font-size: 1.25em;
     font-style: italic;
 	  text-align: center;
+    @include mobile {
+	    margin: 0 8% 4em;
+	  }
   }
 
   .comments {
