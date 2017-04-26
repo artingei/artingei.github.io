@@ -12,7 +12,7 @@ Short bio:
 - grew up in Eastern Germany
 - Interaction Designer (M.A.)
 - lived in Cologne, Hannover and Halle (Saale)
-- now works as Interaction Designer in Hamburg
+- now works in Hamburg
 
 I am not a professional photographer but I do enjoy taking, developing and sharing photos of things I see day in and out. I use film exclusively. 
 
