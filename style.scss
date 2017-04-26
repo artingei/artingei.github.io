@@ -228,7 +228,7 @@ nav {
   float: right;
 	margin-top: 5px;
   font-family: $muli;
-  font-size: 1em;
+  font-size: .8em;
 
   @include mobile {
     float: none;
@@ -241,6 +241,7 @@ nav {
     margin-left: 20px;
     text-align: right;
     font-weight: 400;
+    color: $dark-grey;
 
     @include mobile {
       margin: 0 10px;
