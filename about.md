@@ -14,6 +14,4 @@ Short bio:
 
 I am not a professional photographer but I do enjoy taking, developing and sharing photos of things I see day in and out. I use film exclusively. If you are interested in a print please feel free to contact me. This site is built with Jekyll and hosted on GitHub/Flickr.
 
-[Mail me.](mailto:artingei@gmail.com)
-
-[Follow me.](https://www.instagram.com/jnsbrgmr/)
+[Mail me.](mailto:artingei@gmail.com) [Follow me.](https://www.instagram.com/jnsbrgmr/)
