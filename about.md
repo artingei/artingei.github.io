@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-[That's me.](https://abload.de/img/2017-04-20-0010agkp9.jpg)
+![That's me.](https://abload.de/img/2017-04-20-0010agkp9.jpg)
 
 Short bio:
 
