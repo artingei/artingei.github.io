@@ -29,4 +29,4 @@ title: Untitled (ongoing)
 
 ![cv](https://c2.staticflickr.com/6/5245/13961054364_6aa8879ea2_c.jpg)
 
-> Untitled nonesense captured with Superpan, HP5 & TRI-X.
+> Untitled nonesense captured on Superpan, HP5 & TRI-X.
