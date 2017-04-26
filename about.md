@@ -10,8 +10,10 @@ My name is Jonas Bergmeier and this is kind of my photographic journal. I am not
 
 Short bio:
 
-- Jonas Bergmeier, born 1990, Interaction Designer (M.A.)
+- born 1990
+- Interaction Designer (M.A.)
 - lived in Cologne, Hannover and Halle (Saale)
-- became a father in 2016, now works in Hamburg
+- became a father last year
+- now lives and works in Hamburg
 
 [Mail me.](mailto:artingei@gmail.com) [Follow me.](https://www.instagram.com/jnsbrgmr/)
